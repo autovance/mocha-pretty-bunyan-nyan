@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/blurab/mocha-pretty-bunyan-nyan.git"
+    "url": "git://github.com/autovance/mocha-pretty-bunyan-nyan.git"
   },
   "dependencies": {
     "bunyan": "^1.8.12",
